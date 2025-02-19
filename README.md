@@ -13,9 +13,12 @@ and highlights the hottest and coldest cities with a heatmap.
 
 #### **📊 Example Output**  
 1. Temperature Comparison of Cities
+   
    ![image](https://github.com/user-attachments/assets/54296ef4-4d08-4008-a5f6-c1fbb5c303f2)
+   
 
 2. Hottest & Coldest Cities Heatmap
+   
    ![image](https://github.com/user-attachments/assets/670f52ee-34b2-4ba2-85e7-23993d70ab31)
 
 #### **💡 Notes**  
