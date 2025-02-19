@@ -9,7 +9,7 @@ and highlights the hottest and coldest cities with a heatmap.
 - Stores data in a Pandas DataFrame.
 - Displays a bar chart of city temperatures.
 - Generates a heatmap showing the highest and lowest temperatures.
-- Identifies the hottest and coldest cities.
+- Identifies the hottest and coldest cities. 
 
 #### **📊 Example Output**  
 1. Temperature Comparison of Cities
